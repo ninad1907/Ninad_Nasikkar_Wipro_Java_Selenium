@@ -7,7 +7,7 @@ public class StudentManagement {
 
     static final String URL = "jdbc:mysql://localhost:3306/StudentDB";
     static final String USER = "root";
-    static final String PASSWORD = "Guru@1907"; // Change this to your MySQL password
+    static final String PASSWORD = "*****"; // Change this to your MySQL password
 
     static Connection conn;
     static Scanner sc = new Scanner(System.in);
