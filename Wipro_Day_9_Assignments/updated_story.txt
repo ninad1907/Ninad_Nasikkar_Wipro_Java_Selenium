@@ -1,0 +1,2 @@
+Python is fun
+Python is a programming language developed by James Gosling
