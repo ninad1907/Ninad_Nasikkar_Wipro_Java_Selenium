@@ -1,0 +1,3 @@
+Have a nice day
+Welcome to Java Selenium Course
+Hello
