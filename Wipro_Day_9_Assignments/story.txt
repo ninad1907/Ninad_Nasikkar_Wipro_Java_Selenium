@@ -1,0 +1,2 @@
+Java is fun
+Java is a programming language developed by James Gosling
