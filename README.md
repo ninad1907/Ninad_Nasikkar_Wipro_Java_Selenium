@@ -1,0 +1,1 @@
+All daywise assignments
